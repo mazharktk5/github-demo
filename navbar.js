@@ -1,3 +1,5 @@
 
 
-const age = 18;
+
+name = "mazhar"
+
